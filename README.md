@@ -8,3 +8,10 @@ Before executing the program, please take a moment to read through this `Readme.
 ### Prerequisites
 
 To run the program, you will need a C compiler.
+
+### Execution
+
+To execute the program, you will need to compile the program using a C compiler. The program can be compiled using the following command:
+
+`gcc -o atm main.c`
+`./atm or atm`
