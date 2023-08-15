@@ -15,3 +15,6 @@ To execute the program, you will need to compile the program using a C compiler.
 
 `gcc -o atm main.c`
 `./atm or atm`
+<br>
+### NOTE: 
+`999999999.txt` & `999999999trans.txt` files are necessary and part of some features of the project. Please refer to the Report.
